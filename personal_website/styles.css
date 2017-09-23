@@ -1,0 +1,30 @@
+#contacts {
+  list-style-type: none;
+}
+
+#profile_picture {
+  max-height: 400px;
+  max-width: 400px;
+}
+
+.container {
+  margin-top:100px;
+}
+#introduction {
+  margin-top:25px;
+}
+
+.row {
+  margin-top: 25px;
+}
+
+.h1-name {
+  font-size: 52px;
+  color: #003366;
+}
+
+hr {
+  color: black;
+  border-top: 3px solid;
+  margin-top: 40px;
+}
